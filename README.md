@@ -1,2 +1,2 @@
 # Figure-Draw
-Java application to draw shapes in a window
+Java application to draw shapes in a GUI
